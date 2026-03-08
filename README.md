@@ -8,5 +8,5 @@ xxx
 xxx
 
 ### License
-- Software: GNU General Public License Version 3
-- Hardware: CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+- SOFTWARE: GNU General Public License Version 3
+- HARDWARE: CERN Open Hardware Licence Version 2 - Strongly Reciprocal
