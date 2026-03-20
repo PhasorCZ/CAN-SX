@@ -1,3 +1,5 @@
+# https://github.com/github/gitignore/
+
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
@@ -36,4 +38,25 @@ fp-info-cache
 *.kicad_prl
 
 # Archives
+*.zip
+
+
+# For PSoC Creator projects
+
+# Project Settings
+*.cywrk.*
+*.cyprj.*
+
+# Generated Assets and Resources
+Debug/
+Release/
+Export/
+*/codegentemp
+*_datasheet.pdf
+*_timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
 *.zip
