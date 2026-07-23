@@ -52,7 +52,7 @@ fp-info-cache
 Debug/
 Release/
 Export/
-*/codegentemp
+codegentemp/
 *_datasheet.pdf
 *_timing.html
 *.cycdx
