@@ -124,9 +124,9 @@
 #include "cytypes.h"
 #include "cypins.h"
 #include "core_cm0plus_psoc4.h"
+#include "cy_em_eeprom.h"
 #include "CyDMA.h"
 #include "CyLFClk.h"
-#include "cy_em_eeprom.h"
 
 /*[]*/
 
